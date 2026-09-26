@@ -1,1 +1,1 @@
-# My Project
+# Medicine Project
